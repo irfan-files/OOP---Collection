@@ -1,0 +1,11 @@
+D:\data amikom\pemograman semester 2\oop & collection\OOP---Collection\oppcollection\oppcollection\bin\Debug\netcoreapp3.1\oppcollection.exe
+D:\data amikom\pemograman semester 2\oop & collection\OOP---Collection\oppcollection\oppcollection\bin\Debug\netcoreapp3.1\oppcollection.deps.json
+D:\data amikom\pemograman semester 2\oop & collection\OOP---Collection\oppcollection\oppcollection\bin\Debug\netcoreapp3.1\oppcollection.runtimeconfig.json
+D:\data amikom\pemograman semester 2\oop & collection\OOP---Collection\oppcollection\oppcollection\bin\Debug\netcoreapp3.1\oppcollection.runtimeconfig.dev.json
+D:\data amikom\pemograman semester 2\oop & collection\OOP---Collection\oppcollection\oppcollection\bin\Debug\netcoreapp3.1\oppcollection.dll
+D:\data amikom\pemograman semester 2\oop & collection\OOP---Collection\oppcollection\oppcollection\bin\Debug\netcoreapp3.1\oppcollection.pdb
+D:\data amikom\pemograman semester 2\oop & collection\OOP---Collection\oppcollection\oppcollection\obj\Debug\netcoreapp3.1\oppcollection.csprojAssemblyReference.cache
+D:\data amikom\pemograman semester 2\oop & collection\OOP---Collection\oppcollection\oppcollection\obj\Debug\netcoreapp3.1\oppcollection.AssemblyInfoInputs.cache
+D:\data amikom\pemograman semester 2\oop & collection\OOP---Collection\oppcollection\oppcollection\obj\Debug\netcoreapp3.1\oppcollection.AssemblyInfo.cs
+D:\data amikom\pemograman semester 2\oop & collection\OOP---Collection\oppcollection\oppcollection\obj\Debug\netcoreapp3.1\oppcollection.dll
+D:\data amikom\pemograman semester 2\oop & collection\OOP---Collection\oppcollection\oppcollection\obj\Debug\netcoreapp3.1\oppcollection.pdb
